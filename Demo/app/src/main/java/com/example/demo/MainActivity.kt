@@ -41,8 +41,6 @@ class MainActivity : AppCompatActivity() {
                 commit()
             }
         }
-
-
     }
 
     override fun onStart() {
